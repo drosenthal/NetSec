@@ -1,0 +1,1 @@
+Alert tcp [192.168.1.0/24,129.244.0.0/16] 5000: -> any any (flags:s+;msg:”syn packet”;)
